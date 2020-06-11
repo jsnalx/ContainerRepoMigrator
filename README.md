@@ -1,4 +1,4 @@
-docker/migrator
+Container Repo Migrator
 =================
 
 Tool to migrate Docker images from Docker Hub or v1 registry to a v2 registry including Amazon Elastic Container Registry (ECR)
